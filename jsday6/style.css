@@ -1,0 +1,18 @@
+h1 {
+    color: #00ff1e;
+}
+button{
+    background-color:black;
+    color: white;
+}
+
+.container{
+    border:2px solid black;
+    width:200px;
+    height: 200px;
+
+
+    background-size: cover;
+
+    
+}
