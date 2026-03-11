@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: whitesmoke url("https://www.jqueryscript.net/demo/Basic-Responsive-Fullscreen-Slideshow-with-jQuery-extendo/img/image1.jpg") no-repeat center/cover;
+
+
+}
+
+.form_container {
+
+    height: 90vh;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+form {
+    padding: 1em;
+
+    width: 400px;
+
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
+
+    background: white;
+}
+
+form h3 {
+    color: blueviolet;
+}
+
+form input {
+    width: 100%;
+    margin: .5em 0;
+    padding: .7em;
+
+    border: 1px solid #FCD7FF;
+}
+
+form input[type="submit"] {
+    background: blueviolet;
+    color: black;
+    border: 1px solid white;
+    
+}
+
+form input[type="submit"]:hover {
+    background: white;
+    border: 1px solid skyblue;
+
+    transition: .3s;
+} 
