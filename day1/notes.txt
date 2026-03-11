@@ -1,0 +1,46 @@
+HTML Text Formatting Tags
+
+<b> – Makes text bold (visual only)
+👉 Example: <b>Hello</b>
+
+<i> – Makes text italic
+👉 Example: <i>Hello</i>
+
+<u> – Underlines the text
+👉 Example: <u>Hello</u>
+
+<s> – Strikethrough text (not recommended now)
+👉 Example: <s>Hello</s>
+
+<strike> – Old tag for strikethrough ❌ (deprecated)
+
+<small> – Makes text smaller
+👉 Example: <small>Hello</small>
+
+<big> – Makes text bigger ❌ (deprecated)
+
+<center> – Centers content ❌ (deprecated, use CSS)
+
+<marquee> – Moving/scrolling text ❌ (deprecated but still seen)
+👉 Example: <marquee>Hello</marquee>
+
+<sub> – Subscript text
+👉 Example: H<sub>2</sub>O
+
+<sup> – Superscript text
+👉 Example: x<sup>2</sup>
+
+<mark> – Highlights text
+👉 Example: <mark>Hello</mark>
+
+✅ Semantic (Recommended) Tags
+
+<strong> – Important text (bold + meaning)
+
+<em> – Emphasized text (italic + meaning)
+
+<ins> – Inserted text (usually underlined)
+
+<del> – Deleted text (strikethrough with meaning)
+
+
